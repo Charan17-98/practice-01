@@ -1,1 +1,3 @@
-I am doing my first project on git to learn how to use 
+I am doing my first project on git to learn how to use
+
+i started using git and also pushed some changes to repository 
